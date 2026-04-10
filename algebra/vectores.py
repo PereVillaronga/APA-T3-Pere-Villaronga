@@ -1,16 +1,3 @@
-# Tercera práctica de APA: Multiplicación de vectores y ortogonalidad
-
-**Nombre:** Pere Villaronga Folguera
-
-## Ejecución de los tests unitarios
-A continuación se muestra la captura de pantalla con el resultado de ejecutar los tests en modo verboso:
-
-![Captura de pantalla de los tests](img/tests_resultado.png)
-
-## Código desarrollado
-A continuación se incluye el código implementado en `algebra/vectores.py`:
-
-```python
 """
 Tasca de APA: Multiplicació de vectors i ortogonalitat
 Alumne: [Pere Villaronga Folguera]
