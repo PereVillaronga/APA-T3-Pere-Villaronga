@@ -5,9 +5,7 @@
 ## Ejecución de los tests unitarios
 A continuación se muestra la captura de pantalla con el resultado de ejecutar los tests en modo verboso:
 
-<div align="center">
-  <img src="img/tests_resultado.png" alt="Resultado de los tests unitarios" width="800">
-</div>
+![Captura de pantalla de los tests](img/tests_resultado.png)
 
 ## Código desarrollado
 A continuación se incluye el código implementado en `algebra/vectores.py`:
